@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ZiXiang&#39;s Blog</title>
   
-  <subtitle>zixiangcode@gmail.com</subtitle>
+  <subtitle>ZiXiang’s Blog</subtitle>
   <link href="https://zixiangcode.github.io/atom.xml" rel="self"/>
   
   <link href="https://zixiangcode.github.io/"/>
-  <updated>2022-12-27T12:43:00.832Z</updated>
+  <updated>2022-12-29T05:24:23.433Z</updated>
   <id>https://zixiangcode.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zixiangcode.github.io/2022/122816107.html"/>
+    <id>https://zixiangcode.github.io/2022/122816107.html</id>
+    <published>2022-12-28T04:13:54.042Z</published>
+    <updated>2022-12-29T05:24:23.433Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -30,27 +51,6 @@
         
     <summary type="html">&lt;p&gt;这是一个测试文章&lt;/p&gt;
 </summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://zixiangcode.github.io/2022/1224undefined.html"/>
-    <id>https://zixiangcode.github.io/2022/1224undefined.html</id>
-    <published>2022-12-24T07:03:34.644Z</published>
-    <updated>2022-12-24T06:42:19.488Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
